@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>⚡ Fun fact
+# ⚡ About Me:
+🔭 I’m currently working on<br>🌱 I’m currently learning<br>⚡ Fun fact 💫
 
 
 ## 🌐 Socials:
