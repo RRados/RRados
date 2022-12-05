@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 # ⚡ About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>⚡ Fun fact 💫
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_r_a_d_o_s) 
