@@ -19,4 +19,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=RRADOS&icon=7&color=0)](https://visitcount.itsvg.in)
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
