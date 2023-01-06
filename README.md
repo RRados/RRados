@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/LinkedIn-blue?logo=linkedIn&style=plastic)](https://www.linkedin.com/in/rado%C5%A1-raj%C4%8Di%C4%87/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=plastic)](https://instagram.com/r_r_a_d_o_s) 
 
-### 💻 Tech Stack
 
 # [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff&style=plastic)](https://github.com/)
