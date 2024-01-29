@@ -10,9 +10,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff&style=plastic)](https://github.com/)
-[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio&style=plastic)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff&style=plastic)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/-181717?logo=github&logoColor=ffffff&style=plastic)](https://github.com/)
+[![Visual Studio](https://img.shields.io/badge/-6C33AF?logo=visual%20studio&style=plastic)](https://visualstudio.microsoft.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-007ACC?logo=visual%20studio%20code&logoColor=ffffff&style=plastic)](https://code.visualstudio.com/)
 
 <p align="left">
 </p>
