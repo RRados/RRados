@@ -14,8 +14,7 @@
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio&style=plastic)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff&style=plastic)](https://code.visualstudio.com/)
 
-<p align="left">
-</p>
+
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
